@@ -18,13 +18,13 @@
 | Stranica              | Opis                                                                 |
 | --------------------- | -------------------------------------------------------------------- |
 | **[Početna](https://tvojapomoc.vercel.app/)** | Osnovna strana gde možete saznati više o platformi.              |
-| **[oglasi](https://tvojapomoc.vercel.app/oglasi)** | Stranica gde su prikazani svi aktivni oglasi.                   |
-| **[poslovi](https://tvojapomoc.vercel.app/poslovi)** | Poslovi koje pomoćnici nude.                                     |
-| **[pomocnici](https://tvojapomoc.vercel.app/pomocnici)** | Lista svih registrovanih pomoćnika.                             |
-| **[chat](https://tvojapomoc.vercel.app/chat)** | Chat sistem za direktnu komunikaciju između korisnika.          |
-| **[novi/post](https://tvojapomoc.vercel.app/novi/post)** | Stranica za objavljivanje posla ili oglasa.                     |
-| **[novi/pomocnik](https://tvojapomoc.com/novi/pomocnik)** | Stranica za kreiranje profila za pomoćnike.                     |
-| **[profil](https://tvojapomoc.vercel.app/profil)** | Profil stranica korisnika gde mogu da prate svoj rad i ocene.   |
+| **[Oglasi](https://tvojapomoc.vercel.app/oglasi)** | Stranica gde su prikazani svi aktivni oglasi.                   |
+| **[Poslovi](https://tvojapomoc.vercel.app/poslovi)** | Poslovi koje pomoćnici nude.                                     |
+| **[Pomocnici](https://tvojapomoc.vercel.app/pomocnici)** | Lista svih registrovanih pomoćnika.                             |
+| **[Chat](https://tvojapomoc.vercel.app/chat)** | Chat sistem za direktnu komunikaciju između korisnika.          |
+| **[Novi/Post](https://tvojapomoc.vercel.app/novi/post)** | Stranica za objavljivanje posla ili oglasa.                     |
+| **[Novi/Pomocnik](https://tvojapomoc.com/novi/pomocnik)** | Stranica za kreiranje profila za pomoćnike.                     |
+| **[Profil](https://tvojapomoc.vercel.app/profil)** | Profil stranica korisnika gde mogu da prate svoj rad i ocene.   |
 
 ---
 
@@ -42,13 +42,13 @@
 | Page                  | Description                                                          |
 | --------------------- | -------------------------------------------------------------------- |
 | **[Home](https://tvojapomoc.vercel.app/)** | Main page where you can learn more about the platform.           |
-| **[/oglasi](https://tvojapomoc.vercel.app/oglasi)** | A page displaying all active job ads.                           |
-| **[/poslovi](https://tvojapomoc.vercel.app/poslovi)** | Jobs offered by helpers.                                         |
-| **[/pomocnici](https://tvojapomoc.vercel.app/pomocnici)** | List of all registered helpers.                                  |
-| **[/chat](https://tvojapomoc.vercel.app/chat)** | Chat system for direct communication between users.              |
-| **[/novi/post](https://tvojapomoc.vercel.app/novi/post)** | A page for posting jobs or ads.                                  |
-| **[/novi/pomocnik](https://tvojapomoc.vercel.app/novi/pomocnik)** | A page for creating helper profiles.                             |
-| **[/profil](https://tvojapomoc.vercel.app/profil)** | User profile page where they can track their jobs and ratings.   |
+| **[Oglasi](https://tvojapomoc.vercel.app/oglasi)** | A page displaying all active job ads.                           |
+| **[Poslovi](https://tvojapomoc.vercel.app/poslovi)** | Jobs offered by helpers.                                         |
+| **[Pomocnici](https://tvojapomoc.vercel.app/pomocnici)** | List of all registered helpers.                                  |
+| **[Chat](https://tvojapomoc.vercel.app/chat)** | Chat system for direct communication between users.              |
+| **[Novi/Post](https://tvojapomoc.vercel.app/novi/post)** | A page for posting jobs or ads.                                  |
+| **[Novi/Pomocnik](https://tvojapomoc.vercel.app/novi/pomocnik)** | A page for creating helper profiles.                             |
+| **[Profil](https://tvojapomoc.vercel.app/profil)** | User profile page where they can track their jobs and ratings.   |
 
 ---
 
